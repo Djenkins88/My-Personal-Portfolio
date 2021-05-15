@@ -26,9 +26,9 @@
     display: inline-block;
     margin-left: 25px;
 }
-
+/* This controls class c image element */
 .c img {
-    display:block;
+    display: block;
     text-align: center;
     border-radius: 200px;
     border-style: solid;
@@ -36,7 +36,7 @@
     border-color:rgb(231, 220, 205);
     margin: 75px 0px 50px 550px;
 }
-
+/* This is for class c h2 element */
 .c h2 {
     float: left;
     color: black;
@@ -47,14 +47,14 @@
     height: 145px;
     padding-left: 215px
 }
-    
+/* This is for class c paragraph element */ 
 .c p {
     font-family:inherit;
     font-size: 25px;
     width: 90%;
 }
 
-.s section h2 {
+.s h2 {
     float: left;
     display:inline-block;
     color: black;
@@ -65,7 +65,7 @@
     width:24%;
     padding-left: 220px;
 }
-
+/* This controls class s image element */
 .s img {
     display: block;
     height: 500px;
@@ -74,10 +74,10 @@
     border-color: gray;
     padding-left: 20px;
 }
-
+/* This controls class s paragraph element */
 .s p {
     position:absolute;
-    top: 1185px;
+    top: 1179px;
     right:570px;
     background-color:grey;
     width: 10%;
@@ -87,7 +87,7 @@
     color: white;
     font-size:x-large;
 }
-
+/* This controls class d image element */
 .d img {
     position: absolute;
     top: 1265px;
@@ -98,7 +98,7 @@
     border-width: 5px;
     border-color: gray;
 }
-
+/* This is for class d paragraph*/
 .d p {
     position: absolute;
     top: 1370px;
@@ -111,7 +111,7 @@
     color: white;
     font-size: x-large;
 }
-
+/* This is for class r image*/
 .r img {
     position: absolute;
     top: 1265px;
@@ -120,7 +120,7 @@
     border-color: gray;
     border-width: 5px;
 }
-
+/* This is for class r paragraph */ 
 .r p {
     position:absolute;
     top: 1370px;
@@ -142,7 +142,7 @@ footer  {
     border-right: solid;
     padding-right: 25px;
 }
-    
+/* This is for the footer paragraph element*/    
 footer p {
     position: absolute;
     left: 230px;
