@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+
+.container {
+    padding: 20px;
+}
+
+.container h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.container div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+.container div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.c img {
+    display:block;
+    text-align: center;
+    border-radius: 200px;
+    border-style: solid;
+    border-width: 10px;
+    border-color:rgb(231, 220, 205);
+    margin: 75px 0px 50px 550px;
+}
+
+.c h2 {
+    float: left;
+    color: black;
+    font-size: 40px;
+    margin: 0px 20px;
+    padding: 0px 20px; 
+    border-right: solid;
+    height: 145px;
+    padding-left: 215px
+}
+    
+.c p {
+    font-family:inherit;
+    font-size: 25px;
+    width: 90%;
+}
+
+.s section h2 {
+    float: left;
+    display:inline-block;
+    color: black;
+    font-size: 40px;
+    border-right: solid;
+    padding-right: 10px;
+    height: 710px;
+    width:24%;
+    padding-left: 220px;
+}
+
+.s img {
+    display: block;
+    height: 500px;
+    width: 66%;
+    margin-top: 70px;
+    border-color: gray;
+    padding-left: 20px;
+}
+
+.s p {
+    position:absolute;
+    top: 1185px;
+    right:570px;
+    background-color:grey;
+    width: 10%;
+    height:10%;
+    padding: 20px 0px;
+    padding-left: 38px;
+    color: white;
+    font-size:x-large;
+}
+
+.d img {
+    position: absolute;
+    top: 1265px;
+    height: 200px;
+    width: 485px;
+    margin: 0px 520px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+}
+
+.d p {
+    position: absolute;
+    top: 1370px;
+    right: 450px;
+    background-color:grey;
+    width: 12%;
+    height: 10%;
+    padding: 20px 0px;
+    padding-left: 30px;
+    color: white;
+    font-size: x-large;
+}
+
+.r img {
+    position: absolute;
+    top: 1265px;
+    left: 385px;
+    border-style: solid;
+    border-color: gray;
+    border-width: 5px;
+}
+
+.r p {
+    position:absolute;
+    top: 1370px;
+    left:389px;
+    background-color:grey;
+    width: 12%;
+    height:10%;
+    padding: 20px 0px;
+    padding-left: 30px;
+    color: white;
+    font-size:x-large;
+}
+
+footer  {
+    position: absolute;
+    font-size: x-large;
+    top:1500px;
+    left: 215px;
+    border-right: solid;
+    padding-right: 25px;
+}
+    
+footer p {
+    position: absolute;
+    left: 230px;
+    top: 15px;
+}
+    
