@@ -26,15 +26,22 @@
     display: inline-block;
     margin-left: 25px;
 }
+
+.c {
+    
+
+}
 /* This controls class c image element */
 .c img {
     display: block;
-    text-align: center;
     border-radius: 200px;
     border-style: solid;
     border-width: 10px;
     border-color:rgb(231, 220, 205);
-    margin: 75px 0px 50px 550px;
+    margin: auto;
+    margin-top: 120px;
+    margin-bottom: 0px;
+    
 }
 /* This is for class c h2 element */
 .c h2 {
@@ -92,7 +99,7 @@
     position: absolute;
     top: 1265px;
     height: 200px;
-    width: 485px;
+    width: 480px;
     margin: 0px 520px;
     border-style: solid;
     border-width: 5px;
@@ -102,7 +109,7 @@
 .d p {
     position: absolute;
     top: 1370px;
-    right: 450px;
+    right: 445px;
     background-color:grey;
     width: 12%;
     height: 10%;
@@ -124,7 +131,7 @@
 .r p {
     position:absolute;
     top: 1370px;
-    left:389px;
+    left:385px;
     background-color:grey;
     width: 12%;
     height:10%;
